@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/cvetnoy/static/css/main.eaef21d4.css",
+    "main.js": "/cvetnoy/static/js/main.b593b5ee.js",
+    "static/js/453.50764fd2.chunk.js": "/cvetnoy/static/js/453.50764fd2.chunk.js",
+    "static/media/photo_2024-12-21_15-20-20 (2).jpg": "/cvetnoy/static/media/photo_2024-12-21_15-20-20 (2).aa06f80fe9a31bcc0065.jpg",
+    "static/media/logogorizont.png": "/cvetnoy/static/media/logogorizont.be38fcc3fb71443727a7.png",
+    "index.html": "/cvetnoy/index.html",
+    "main.eaef21d4.css.map": "/cvetnoy/static/css/main.eaef21d4.css.map",
+    "main.b593b5ee.js.map": "/cvetnoy/static/js/main.b593b5ee.js.map",
+    "453.50764fd2.chunk.js.map": "/cvetnoy/static/js/453.50764fd2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaef21d4.css",
+    "static/js/main.b593b5ee.js"
+  ]
+}
