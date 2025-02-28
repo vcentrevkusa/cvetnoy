@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/cvetnoy/static/css/main.cef4415c.css",
+    "main.js": "/cvetnoy/static/js/main.930d24bc.js",
+    "static/media/3.png": "/cvetnoy/static/media/3.dd411d36274400221611.png",
+    "static/media/2.png": "/cvetnoy/static/media/2.8d09739649c0d2f39a30.png",
+    "static/media/1.png": "/cvetnoy/static/media/1.7f989e26bc35ea2f5013.png",
+    "static/media/printer.png": "/cvetnoy/static/media/printer.4d92f089368f4c6389a7.png",
+    "index.html": "/cvetnoy/index.html",
+    "main.cef4415c.css.map": "/cvetnoy/static/css/main.cef4415c.css.map",
+    "main.930d24bc.js.map": "/cvetnoy/static/js/main.930d24bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cef4415c.css",
+    "static/js/main.930d24bc.js"
+  ]
+}
